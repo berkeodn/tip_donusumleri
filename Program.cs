@@ -1,4 +1,4 @@
-﻿// Implicit Conversion (Bilinçsiz Dönüşüm)
+// Implicit Conversion (Bilinçsiz Dönüşüm)
 Console.WriteLine("*****Implicit Conversion*****");
 
 byte a = 5;
@@ -60,7 +60,7 @@ Console.WriteLine("Toplam:" + Toplam);
 //Parse
 Console.WriteLine("***** Parse *****");
 ParseMethod();
-}
+
 public static void ParseMethod(){
     string metin1 = "10";
     string metin2 = "10.25";
